@@ -3,7 +3,7 @@
 
 <remote name="github" fetch="https://github.com" />
 
-<project name="UlefonePower/device_ulefone_power" path="device/ulefone/power" remote="github" />
-<project name="UlefonePower/vendor_ulefone_power" path="vendor/ulefone/power" remote="github" />
+<project name="device/ulefone/power" path="device/ulefone/power" remote="github" />
+<project name="vendor/ulefone/power" path="vendor/ulefone/power" remote="github" />
 
 </manifest>
