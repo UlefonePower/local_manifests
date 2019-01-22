@@ -1,9 +1,0 @@
-<?xml verion="1.0" encoding="UTF-8"?>
-<manifest>
-
-<remote name="github" fetch="https://github.com" />
-
-<project name="device/ulefone/power" path="device/ulefone/power" remote="github" />
-<project name="vendor/ulefone/power" path="vendor/ulefone/power" remote="github" />
-
-</manifest>
